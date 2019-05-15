@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohgeeshah.eunmin.com/sitemap.xml
